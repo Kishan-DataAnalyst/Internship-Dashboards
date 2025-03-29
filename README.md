@@ -23,9 +23,7 @@ Here are a few sample dashboards:
 
 Dashboard Sample 1 (![Screenshot_Sample1](https://github.com/user-attachments/assets/fb790297-b04f-422b-b58c-d0895aa9ea65)
 
-Dashboard Sample 2 (![ScreenShot_Sample2](https://github.com/user-attachments/assets/c5227c9a-ec6d-4025-a0be-aac9af8ad7bd)
-
-Dashboard Sample 3 (![ScreenShot_Sample3](https://github.com/user-attachments/assets/839ae11c-498f-45cf-99a3-31640f3ed6ae)
+Dashboard Sample 2 (![ScreenShot_Sample2](https://github.com/user-attachments/assets/839ae11c-498f-45cf-99a3-31640f3ed6ae)
 
 📁 How to View the Dashboards?
 
